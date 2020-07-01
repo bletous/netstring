@@ -1,0 +1,2 @@
+# netstring
+Golang encode decode 
